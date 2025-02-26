@@ -28,7 +28,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/rlarb/IdeaProjects/BJ_3190",
+    "last_opened_file_path": "C:/Users/rlarb/IdeaProjects/BaekJoon_JAVA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -165,6 +165,7 @@
       <workItem from="1740317197425" duration="37000" />
       <workItem from="1740319448296" duration="174000" />
       <workItem from="1740395174390" duration="287000" />
+      <workItem from="1740449242278" duration="180000" />
     </task>
     <servers />
   </component>
